@@ -40,11 +40,13 @@ class Pricing extends Component {
 
   render() {
     return (
-      <div className="bck_black">
-        <div className="center_wrapper pricing_section">
-          <h2>Pricing</h2>
+      <div class="row">
+        <div className="bck_black">
+          <div className="pricing_section col-md-8 col-md-offset-2 col-xs-8 col-xs-offset-2">
+            <h2>Pricing</h2>
 
-          <div className="pricing_wrapper">{this.showBoxes()}</div>
+            <div className="pricing_wrapper">{this.showBoxes()}</div>
+          </div>
         </div>
       </div>
     );

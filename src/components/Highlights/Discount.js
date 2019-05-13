@@ -25,8 +25,8 @@ class Discount extends Component {
 
   render() {
     return (
-      <div className="center_wrapper">
-        <div className="discount_wrapper">
+      <div class="row">
+        <div className="discount_wrapper col-md-8 col-md-offset-2 col-xs-8 col-xs-offset-2 ">
           <Fade onReveal={() => this.porcentage()}>
             <div className="discount_porcentage">
               <span>{this.state.discountStart}%</span>
