@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acb2fdf195e24be394782f693b875473",
+    "revision": "722b9336572b6db33ec21ec0066f2061",
     "url": "/league_venue/index.html"
   },
   {
-    "revision": "d2ec5cc7fb993001367f",
-    "url": "/league_venue/static/css/main.277a5b07.chunk.css"
+    "revision": "9f66142c0f4588257f48",
+    "url": "/league_venue/static/css/main.5534c2fe.chunk.css"
   },
   {
     "revision": "d6ab76efcba51b0a0944",
     "url": "/league_venue/static/js/2.473c2310.chunk.js"
   },
   {
-    "revision": "d2ec5cc7fb993001367f",
+    "revision": "9f66142c0f4588257f48",
     "url": "/league_venue/static/js/main.27496870.chunk.js"
   },
   {
