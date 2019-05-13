@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "393674e2583db05b81e3ff8fd42e209e",
+    "revision": "f93c93443fd78f9a815582e6b89acc69",
     "url": "/league_venue/index.html"
   },
   {
-    "revision": "cde5b22e16437277096e",
+    "revision": "cb73f2b04d39e2ef3f27",
     "url": "/league_venue/static/css/main.5014ded5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/league_venue/static/js/2.473c2310.chunk.js"
   },
   {
-    "revision": "cde5b22e16437277096e",
-    "url": "/league_venue/static/js/main.7037a7cf.chunk.js"
+    "revision": "cb73f2b04d39e2ef3f27",
+    "url": "/league_venue/static/js/main.3592cb7b.chunk.js"
   },
   {
     "revision": "1c64db8ce43d422cc300",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/league_venue/static/media/slide_one.996dd455.jpg"
   },
   {
-    "revision": "0588c4c5eaca4cc682d52744895cad8b",
-    "url": "/league_venue/static/media/slide_three.0588c4c5.jpg"
+    "revision": "0b42bd40b74147321bb37d107a767850",
+    "url": "/league_venue/static/media/slide_three.0b42bd40.jpg"
   },
   {
     "revision": "828dff574cc76c4b15fc33ca47dc0af6",
