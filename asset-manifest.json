@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/league_venue/static/css/main.1831a656.chunk.css",
+    "main.css": "/league_venue/static/css/main.33f6e99d.chunk.css",
     "main.js": "/league_venue/static/js/main.27496870.chunk.js",
     "main.js.map": "/league_venue/static/js/main.27496870.chunk.js.map",
     "runtime~main.js": "/league_venue/static/js/runtime~main.ce130b6c.js",
@@ -8,9 +8,9 @@
     "static/js/2.473c2310.chunk.js": "/league_venue/static/js/2.473c2310.chunk.js",
     "static/js/2.473c2310.chunk.js.map": "/league_venue/static/js/2.473c2310.chunk.js.map",
     "index.html": "/league_venue/index.html",
-    "precache-manifest.37df730fdca9b2e51176fb50fc283365.js": "/league_venue/precache-manifest.37df730fdca9b2e51176fb50fc283365.js",
+    "precache-manifest.e97502307ef270f027d7d2b888db0eca.js": "/league_venue/precache-manifest.e97502307ef270f027d7d2b888db0eca.js",
     "service-worker.js": "/league_venue/service-worker.js",
-    "static/css/main.1831a656.chunk.css.map": "/league_venue/static/css/main.1831a656.chunk.css.map",
+    "static/css/main.33f6e99d.chunk.css.map": "/league_venue/static/css/main.33f6e99d.chunk.css.map",
     "static/media/slide_one.jpg": "/league_venue/static/media/slide_one.996dd455.jpg",
     "static/media/slide_three.jpg": "/league_venue/static/media/slide_three.0b42bd40.jpg",
     "static/media/slide_two.jpg": "/league_venue/static/media/slide_two.828dff57.jpg"
