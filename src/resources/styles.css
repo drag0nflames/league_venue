@@ -1,7 +1,9 @@
-body, html {
+body {
   width: 100%;
   height: 100%;
-  margin: 0px;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
   font-family: "Roboto", sans-serif;
 }
 
@@ -24,7 +26,6 @@ body, html {
 
 .iconImage {
   width: 20px;
-  margin-right: 10px;
 }
 
 .center_wrapper {
@@ -156,7 +157,6 @@ footer .footer_copyright {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    margin-left: 20%;
   }
 }
 .vn_item {
@@ -301,7 +301,6 @@ footer .footer_copyright {
   .pricing_wrapper {
     flex-wrap: wrap;
     flex-direction: column;
-    width: 100%;
   }
 }
 
@@ -310,7 +309,7 @@ footer .footer_copyright {
 }
 .pricing_wrapper .pricing_item {
   flex-grow: 1;
-  width: 33%;
+  width: auto;
   padding: 20px;
   box-sizing: border-box;
 }
@@ -365,7 +364,7 @@ footer .footer_copyright {
   background: #2c2c2c;
   color: #ffffff;
   text-transform: uppercase;
-  width: 220px;
+  width: auto;
   margin: 0 auto;
   font-size: 29px;
   padding: 15px 20px;
