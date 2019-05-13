@@ -150,7 +150,6 @@ footer .footer_copyright {
 
 .vn_wrapper {
   display: flex;
-  padding: 170px 0px;
 }
 
 @media (max-width: 600px) {
@@ -158,7 +157,6 @@ footer .footer_copyright {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    margin-left: 20%;
   }
 }
 .vn_item {
